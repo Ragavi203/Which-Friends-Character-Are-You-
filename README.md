@@ -81,6 +81,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
+
+https://colab.research.google.com/drive/137vyp-0sQBIL7LZYsC6HAIgGAls2rvey?usp=sharing
+
 ## Try It Out!
 
 Ready to find your *Friends* character? Explore the app and share your results!
